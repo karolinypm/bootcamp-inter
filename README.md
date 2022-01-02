@@ -1,2 +1,3 @@
-# bootcamp-inter
-Para acompanhamento e anotações importantes sobre o estudo
+# <h1>Frontend Developer</h1>
+# Repositório para *anotações importantes*
+# Para melhor compreensão estará dividido em módulos
